@@ -8,7 +8,9 @@ gem 'spring', :group => :development
 
 gem 'pg'
 
+gem 'devise'
 
+gem 'simple_token_authentication'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
